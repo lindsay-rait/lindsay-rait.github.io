@@ -20,4 +20,4 @@ redirect_from:
 
 I am pursuing a PhD in Psychology at the Universtiy of Oregon, specializing in Cognitive Neuroscience. Using behavioral, neuroimaging (fMRI), and computational methods, I am interested in how people learn and remember. Specifically, my research projects investigate how context (where and when an experience occurs) shapes both how much information we can remember and order in which we remember it.
 
-Download my [resume] (http://lindsay-rait.github.io/files/rait_resume_41724.pdf) or [CV] (http://lindsay-rait.github.io/files/rait_CV_51424.pdf) for more information.
+Download my [resume](http://lindsay-rait.github.io/files/rait_resume_41724.pdf) or [CV](http://lindsay-rait.github.io/files/rait_CV_51424.pdf) for more information.
