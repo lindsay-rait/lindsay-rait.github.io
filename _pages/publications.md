@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: 
 permalink: /publications/
 author_profile: true
 ---
@@ -38,6 +38,10 @@ Selected Presentations
 ======
 * **Rait, L.I.,** Wanjia, G., Ye, Z., DuBrow, S., Kuhl, B.A., (April, 2024). Rate of context change at encoding influences hippocampal autocorrelation and temporal clustering of free recall. Data Blitz presented at Cognitive Neuroscience Society Meeting, Toronto, Ontario, Canada. 
 * **Rait, L.I.,** Murty, V.P., DuBrow, S., (July, 2022). Contextual familiarity rescues the cost of switching. Talk at Sarah DuBrow Memorial Symposium, Eugene, OR.
-
-
-
+* **Rait, L.I.,** Wanjia, G., Ye, Z., DuBrow, S., Kuhl, B.A., (April, 2024). Rate of context change at encoding influences hippocampal autocorrelation and temporal clustering of free recall. Poster at Cognitive Neuroscience Society Meeting, Toronto, Ontario, Canada. 
+* **Rait, L.I.,** Horwath, E.A., DuBrow, S., & Murty, V.P., (April, 2023). Investigating the effects of goal-relevance on free recall organization. Poster at the International Conference on Learning and Memory, Huntington Beach, CA. 
+* **Rait, L.I.,** DuBrow, S., (Aug, 2021). Contextual novelty and familiarity influence the effects of switching on free recall performance. Poster at Context and Episodic Memory Symposium, Philadelphia, PA.  
+* **Rait, L.I.,** DuBrow, S., (Mar, 2021). Switch costs…. And benefits? Investigating the effects of task switch rate on memory. Poster at Cognitive Neuroscience Society Virtual Meeting. 
+* **Rait, L.I.,** DuBrow, S., (Nov, 2020). Investigating the effects of task switch rate on memory recall. Poster at Virtual Psychonomics. 
+* **Rait, L.I.,** Kok, P., Turk-Browne, N. B., (Nov, 2018). Distinct hippocampal representations of predicted features and objects. Poster at Society for Neuroscience, San Diego, CA.
+* Kok, P., **Rait, L.I.,** Turk-Browne, N. B., (May, 2018). Distinct neural sources of expectations about features and objects. Poster at Vision Sciences Society, St. Pete Beach, FL.
