@@ -11,9 +11,14 @@ I am pursuing a PhD in Psychology at the Universtiy of Oregon, specializing in C
 
 Download my resume or CV for more information.
 
-**Interests**                                                   **Education **
-data science                                                    PhD in Cognitive Neuroscience, 2019- Present, University of Oregon
-quantitative research                                           MS in Cognitive Neuroscience, 2019-2020, University of Oregon
-statistical analysis                                            BA in Psychology with Statistics Minor, 2013-2017, Cornell University 
+ **Education**
+PhD in Cognitive Neuroscience, 2019- Present, _University of Oregon_
+MS in Cognitive Neuroscience, 2019-2020, _University of Oregon_
+BA in Psychology with Statistics Minor, 2013-2017, _Cornell University_ 
+
+**Interests** 
+data science
+quantitative research
+statistical analysis 
 experimentation
 human behavior
