@@ -31,8 +31,8 @@ You can find my full list of publications on my [`Google Scholar profile`](https
 
 Publications
 =======
-* **Rait, L.I.,** Murty, V.P., & DuBrow, S. (2023). Contextual familiarity rescues the cost of switching. Psychonomic Bulletin & Review, 1-11.
-* Kok, P., **Rait, L.I.,** & Turk-Browne, N.B. (2019). Content-based dissociation of hippocampal involvement in prediction. Journal of Cognitive Neuroscience, 1-19.
+* **Rait, L.I.,** Murty, V.P., & DuBrow, S. (2023). Contextual familiarity rescues the cost of switching. Psychonomic Bulletin & Review, 1-11. [PDF](http://lindsay-rait.github.io/files/pbr_2023.pdf)
+* Kok, P., **Rait, L.I.,** & Turk-Browne, N.B. (2019). Content-based dissociation of hippocampal involvement in prediction. Journal of Cognitive Neuroscience, 1-19. [PDF](http://lindsay-rait.github.io/files/jocn_a_01509.pdf)
 
 Selected Presentations
 ======
