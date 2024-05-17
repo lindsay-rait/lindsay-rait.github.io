@@ -18,7 +18,7 @@ redirect_from:
 </script>
 
 
-I am a PhD candidate in Cognitive Neuroscience at the Universtiy of Oregon. My expertise is using human behavior, neuroimaging, and computational modeling to understand how people learn and remember. I have 8+ years of experience in designing experimental psychology and neuroimaging experiments, analyzing multi-method datasets, and interpreting and communicating scientific results. I am eager to take on new challenges that allow me to think critically and creatively about data-driven problems with real-world impact. 
+I am a PhD candidate in Cognitive Neuroscience at the Universtiy of Oregon. My expertise is in using human behavior, neuroimaging, and computational modeling to understand how people learn and remember. I have 8+ years of experience in designing experimental psychology and neuroimaging experiments, analyzing multi-method datasets, and interpreting and communicating scientific results. I am eager to take on new challenges that allow me to think critically and creatively about data-driven problems with real-world impact. 
 
 My PhD research investigates how context (where and when an experience occurs) shapes both how much information we can remember and order in which we remember it. Prior to graduate school, I was a research assistant at Yale University, and received my BA from Cornell University. 
 
