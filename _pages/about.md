@@ -18,7 +18,8 @@ redirect_from:
 </script>
 
 
-I am a PhD candidate in Cognitive Neuroscience at the Universtiy of Oregon. My expertise is in using human behavior, neuroimaging, and computational modeling to understand how people learn and remember. I am inherently curious about the role of context (where/when an event occurs) in shaping human behavior. I have 8+ years of experience in designing experimental psychology and neuroimaging experiments, analyzing multi-method datasets, and interpreting and communicating scientific results. I am eager to take on new challenges that allow me to think critically and creatively about data-driven problems with real-world impact. 
+I am a PhD candidate in Cognitive Neuroscience at the Universtiy of Oregon. My expertise is in using human behavior, neuroimaging, and computational methods to understand how people learn and remember. My research is driven by an inherent curiosity about how context—such as where and when an experience takes place— shapes human behavior.
 
+With over 8 years of experience in designing and conducting experimental psychology and neuroimaging studies, I have honed my skills in analyzing complex, multi-method datasets and effectively communicating scientific findings. I am passionate about applying my expertise to solve data-driven problems that have real-world impact and am eager to take on new challenges that require critical and creative thinking.
 
 Download my [resume](http://lindsay-rait.github.io/files/rait_resume_41724.pdf) or [CV](http://lindsay-rait.github.io/files/Rait_CV_51424.pdf) for more information.
