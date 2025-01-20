@@ -53,9 +53,9 @@ We found that the number of words that participants remembered was only worse wh
 <img width="297" alt="Screen Shot 2025-01-19 at 10 00 00 PM" src="https://github.com/user-attachments/assets/ede4f657-a23a-43d0-ad04-71bc5c7ca8d2" />
 
 
-<h2 style="font-size:24px;">Key Takeaways & Future Directions</h2>
+<h2 style="font-size:24px;">Key Takeaways & Implications</h2>
 
-In two experiments, we found that familiarity with a context can rescue the costs to memory that are associated with rapidly switching to new tasks environments. Task Switching is unavoidable. This research can help to better understand media multitasking, the concurrent use of two streams of media or media with a non-media activity. This research also has implications for education. 
+In two experiments, we found that familiarity with a context can rescue the costs to memory that are associated with rapidly switching to new tasks and environments. Task Switching is unavoidable. Thus, an understanding of how to limit detriments to memory because of switching between tasks may have several broad implications. In particular, this research will help to understand the increasingly common case of media multitasking, the concurrent use of two streams of media or the use of media while engaging in a non-media activity. Media multitasking is especially prevalent in education, where students often send text messages while studying or use their laptop during a lecture. Implementing more effective task-switching strategies in the classroom can promote better learning and memory of the material. 
 
 
  
