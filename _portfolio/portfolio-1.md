@@ -23,7 +23,7 @@ Our environment is ever-changing, flled with switches in context varying in how 
 
 * **Explore How Fast Context Changes Affect Memory Organization:** Analyze whether the rate at which people switch environments changes the way they group and recall information, especially focusing on the role of time in organizing memories
 
-* **Test the Impact of Familiar vs. Novel Environments on Memory:** Investigate whether people remember things better when they switch between familiar environments compared to when they switch to novel ones.
+* **Investigate the Influence of Familiar vs. Novel Environments on Memory:** Investigate whether people remember things better when they switch between familiar environments compared to when they switch to novel ones.
 
 
 
@@ -33,11 +33,11 @@ Our environment is ever-changing, flled with switches in context varying in how 
 
 <img width="807" alt="methods_arial_new_3" src="https://github.com/user-attachments/assets/18ec090c-aa35-4e05-b65b-ebb770ec70a3" />
 
-_Experiment 1: Online experiment with 100+ participants_
+_Experiment 1: Online experiment with 84 participants_
 
 * Participants viewed alternating presentations of scenes and words. Participants studied 24 words per round. After each round, participants verbally recalled as many words as possible (a). There were two critical features of our design. The first critical feature was conducted within-subjects. To determine how the rate of context change influences memory, the scene changed to a different scene at two different rates: high vs. low vs. no switch. For the high switch rate (frequent scene changes), the scene changed to a new scene every two words. For the low switch rate (less frequent scene changes), the scene changed to a new scene every four words. For the no switch rate (baseline), where all of the items were studied with the same scene (no context switches). For a direct comparison, the no switch rate is included in the same list as the high and low switch rate (b). The second critical feature was conducted between-subjects. In the repeated context condition, participants saw two scenes that switched back and forth throughout the list. In the novel context condition, each scene switch introduced a completely new scene that participants hadn’t seen before in the experiment (c).
 
-_Experiment 2: Online experiment with ~200 participants_
+_Experiment 2: Online experiment with 167 participants_
 
 * The procedure for Experiment 2 was identical to that of Experiment 1, except for the following changes aimed at improving participants’ verbal recall performance:
     *  Participants instead studied 16 words per round.
