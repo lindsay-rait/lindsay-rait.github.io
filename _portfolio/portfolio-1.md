@@ -14,17 +14,16 @@ _Publication of the findings can be found [here](http://lindsay-rait.github.io/f
 
 **Background:**
 
-Our environment is ever-changing, flled with switches in context varying in how often switches occur as well as prior exposure to the contexts (i.e., relative novelty). These types of changes profoundly infuence how we form and organize our memories. For instance, imagine a typical Sunday afternoon. You could spend the day watching a movie in the living room while preparing lunch in the kitchen. If asked to recall what happened in the movie, your later memory of a specifc scene may become linked with memories of preparing lunch, helping you remember both events. Instead, you could run errands in a new shopping mall. You may have difficulty recalling all the items purchased since you were rapidly switching between each new store. While previous research has shown that context affects memory performance, it is still unclear how different aspects of context —such how familiar they are or as how quickly they change—affect how we organize and structure our memories.
+Our environment is constantly changing, filled with switches in context (where/when something occurs) varying in how often switches occur as well as prior exposure to the contexts (i.e., relative novelty).  These types of changes profoundly infuence how much we remember. For instance, imagine a typical Sunday afternoon. You could spend the day watching a movie in the living room while preparing lunch in the kitchen. If asked to recall what happened in the movie, your later memory of a specifc scene may become linked with memories of preparing lunch, helping you remember both events. Instead, you could run errands in a new shopping mall. You may have difficulty recalling all the items purchased since you were rapidly switching between each new store. While previous research has shown that context affects memory performance, it is still unclear how different aspects of context —such how familiar they are or as how quickly they change—affect how we organize and structure our memories.
 
 
 **Project Goals:**
 
-* **Understand How Context Changes Affect Memory:** Explore how switching between different environments or situations influences how people remember and organize information.
+* **Understand How Context Changes Affect Memory:** Explore how switching between different environments (contexts) influences how people remember and organize information.
 
-* **Explore How Fast Context Changes Affect Memory Organization:** Analyze whether the rate at which people switch environments changes the way they group and recall information, especially focusing on the role of time in organizing memories
+* **Explore How Fast Context Changes Affect Memory:** Analyze whether the rate of context change influences how much information people can remember as well as the order in which they remember it. 
 
 * **Investigate the Influence of Familiar vs. Novel Environments on Memory:** Investigate whether people remember things better when they switch between familiar environments compared to when they switch to novel ones.
-
 
 
 
@@ -33,26 +32,31 @@ Our environment is ever-changing, flled with switches in context varying in how 
 
 <img width="807" alt="methods_arial_new_3" src="https://github.com/user-attachments/assets/18ec090c-aa35-4e05-b65b-ebb770ec70a3" />
 
-_Experiment 1: Online experiment with 84 participants_
+_Experiment 1 (84 participants):_
 
-* Participants viewed alternating presentations of scenes and words. Participants studied 24 words per round. After each round, participants verbally recalled as many words as possible (a). There were two critical features of our design. The first critical feature was conducted within-subjects. To determine how the rate of context change influences memory, the scene changed to a different scene at two different rates: high vs. low vs. no switch. For the high switch rate (frequent scene changes), the scene changed to a new scene every two words. For the low switch rate (less frequent scene changes), the scene changed to a new scene every four words. For the no switch rate (baseline), where all of the items were studied with the same scene (no context switches). For a direct comparison, the no switch rate is included in the same list as the high and low switch rate (b). The second critical feature was conducted between-subjects. In the repeated context condition, participants saw two scenes that switched back and forth throughout the list. In the novel context condition, each scene switch introduced a completely new scene that participants hadn’t seen before in the experiment (c).
+* Participants viewed alternating presentations of scenes and words. Participants studied 24 words per round. After each round, participants verbally recalled as many words as possible (a). The scene context changed at three rates (within-subjects): high (every 2 words), low (every 4 words), and no switch (same scene throughout). Additionally, participants (between-subjects) experienced either repeated contexts (switching between the same two scenes) or novel contexts (each switch introduced a new scene).
 
-_Experiment 2: Online experiment with 167 participants_
+_Experiment 2 (167 participants):_
 
-* The procedure for Experiment 2 was identical to that of Experiment 1, except for the following changes aimed at improving participants’ verbal recall performance:
-    *  Participants instead studied 16 words per round.
-    *  No switch rate (baseline) presented in its own list given that the lists were shorter. This decision was to optimize the number of words associated with each condition. 
-    *  Adding a minimum recall time. In Experiment 1, participants could move onto the next list whenever they felt they recalled as many words as
-they could remember. The instructions were changed to encourage participants to continue to search their memory until at least the minimum time
-was up. 
+* This experiment followed largely the same procedure with a few exceptions:
+   * Participants studied 16 words per round.
+   * A minimum recall time was added to encourage more thorough memory search.
 
 
 **Results:**
 
 <img width="463" alt="Screen Shot 2025-01-19 at 9 42 45 PM" src="https://github.com/user-attachments/assets/00b3f0c1-aea1-49f8-ba15-7b783567ce73" />
 
-In two experiments, we found and replicated that memory was only worse when switching quickly between novel contexts, not when switching between familiar (repeated) contexts. In fact, when the context was familiar (repeated) memory was just as good during when the context was changing rapidly as when it was not changing at all. This suggests that when the context is changing quickly, familiarity with the context can help reduce the negative effects of fast switching. 
+In two experiments, we found and replicated that memory was only worse when switching quickly between novel contexts, not when switching between familiar (repeated) contexts. In fact, when the context was familiar (repeated) memory was just as good during when the context was changing rapidly as when it was not changing at all. This suggests that when the context is changing quickly, familiarity with the context can help reduce the negative effects of fast switching. This suggests that the rate of context change matters more when the context is unfamiliar. 
 
 
+<img width="297" alt="Screen Shot 2025-01-19 at 10 00 00 PM" src="https://github.com/user-attachments/assets/ede4f657-a23a-43d0-ad04-71bc5c7ca8d2" />
 
+
+We found that the number of words that participants remembered was only worse when the context changed at the high rate. To undersand why this happened, we looked at the order in which participants recalled the words. Specifically, we asked, when a participant recalled a word, what word do they recall next, and what scene was it associated with? We observed that the way participants organized their memories differed when the context switched rapidly. 
+
+
+**Key Takeaway**
+
+Familiarity with a context can rescue the costs to memory that are associated with rapidly switching to new tasks or contexts.
  
