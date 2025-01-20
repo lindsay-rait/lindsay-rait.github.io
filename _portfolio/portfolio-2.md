@@ -25,6 +25,10 @@ The hippocampus is a region in the brain that is critical for forming long term 
 
 <h2 style="font-size:24px;">Approach</h2>
 
-We conducted an fMRI experiment with 38 participants. Participants viewed alternating presentations of scenes and words. Participants studied 16 words per round. we manipulated the rate of context change during memory encoding to test whether this influenced the stability of hippocampal representations (measured by autocorrelation) as well as the degree of temporal clustering during subsequent recall. Context was manipulated by alternating background scenes at different switch rates (low, medium, high) as a list of words was encoded. Afterwards, subjects freely recalled as many words as possible. 
+We conducted an fMRI experiment with 38 participants. Participants viewed alternating presentations of scenes and words. Participants studied 24 words per round. After each round, participants verbally recalled as many words as possible (a). The scene context changed at four rates (within-subjects): high (every 2 words), medium (every 6 words), low (every 12 words), and no switch (same scene throughout; b). We tested whether manipulating the rate of context change during learning influenced the stability of hippocampal representations (measured by autocorrelation) as well as the degree of temporal clustering during subsequent recall. 
+
+
+
+<h2 style="font-size:24px;">Results (In Progress)</h2>
 
 
