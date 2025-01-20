@@ -15,11 +15,11 @@ The hippocampus is a region in the brain that is critical for forming long term 
 
 <h2 style="font-size:24px;">Project Goals</h2>
 
-**Explore How Context Changes Affect Memory Organization:** Investigate how changing the background environment at different rates while learning words influences how people remember the order of those words later.
+* **Explore How Context Changes Affect Memory Organization:** Investigate how changing the background environment at different rates while learning words influences how people remember the order of those words later.
 
-**Explore How Context Changes Affect Brain Activity:** Investigate how changing the background environment at different speeds influences activity in the hippocampus.
+* **Explore How Context Changes Affect Brain Activity:** Investigate how changing the background environment at different speeds influences activity in the hippocampus.
 
-**Link Brain Activity to Memory Organization:** Examine whether changes in activity in the hippocampus during learning are correlated with how people group and recall memories based on the order they were learned.
+* **Link Brain Activity to Memory Organization:** Examine whether changes in activity in the hippocampus during learning are correlated with how people group and recall memories based on the order they were learned.
 
 
 
