@@ -23,8 +23,9 @@ Our environment is constantly changing, filled with switches in context (where/w
 
 * **Investigate the Influence of Familiar vs. Novel Contexts on Memory:** Investigate whether people remember things better when they switch between familiar environments compared to when they switch to novel ones.
 
+<h2 style="font-size:24px;">Team</h2>
 
-
+I led the project in collaboration with [Dr. Vishnu Murty](https://www.adaptivememorylab.com/) and [Dr. Sarah DuBrow](https://www.dubrowlab.org/) (In Memorium) 
 
 <h2 style="font-size:24px;">Approach</h2>
 
