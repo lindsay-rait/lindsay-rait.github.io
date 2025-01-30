@@ -19,7 +19,7 @@ Our environment is constantly changing, filled with switches in context (where/w
 
 * **Understand How Context Change Affects Memory:** Explore how switching between different environments (contexts) influences how people remember and organize information.
 
-* **Explore How Fast Context Changes Influence Memory:** Analyze whether the rate of context change influences how much information people can remember as well as the order in which they remember it. 
+* **Explore How the Rate of Context Change Influence Memory:** Analyze whether rapid vs. slower context changes influence how much information people can remember as well as the order in which they remember it. 
 
 * **Investigate the Influence of Familiar vs. Novel Contexts on Memory:** Investigate whether people remember things better when they switch between familiar environments compared to when they switch to novel ones.
 
