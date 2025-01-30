@@ -44,13 +44,12 @@ _Experiment 2 (167 participants):_
 <h2 style="font-size:24px;">Results</h2>
 
 
-We found and replicated that memory was only worse when switching quickly between novel contexts, not when switching between familiar (repeated) contexts. In fact, when the context was familiar (repeated) memory was just as good during when the context was changing rapidly as when it was not changing at all. This suggests that when the context is changing quickly, familiarity with the context can help reduce the negative effects of fast switching. This suggests that the rate of context change matters more when the context is unfamiliar. 
-
 <img width="463" alt="Screen Shot 2025-01-19 at 9 42 45 PM" src="https://github.com/user-attachments/assets/00b3f0c1-aea1-49f8-ba15-7b783567ce73" />
 
-We found that the number of words that participants remembered was only worse when the context changed at the high rate. To undersand why this happened, we looked at the order in which participants recalled the words. Specifically, we asked, when a participant recalled a word, what word do they recall next, and what scene was it associated with? We observed that the way participants organized their memories differed when the context switched rapidly. 
+We found and replicated that memory was only worse when switching quickly between novel contexts, not when switching between familiar (repeated) contexts. In fact, when the context was familiar (repeated) memory was just as good during when the context was changing rapidly as when it was not changing at all. This suggests that when the context is changing quickly, familiarity with the context can help reduce the negative effects of fast switching. This suggests that the rate of context change matters more when the context is unfamiliar. 
 
-<img width="297" alt="Screen Shot 2025-01-19 at 10 00 00 PM" src="https://github.com/user-attachments/assets/ede4f657-a23a-43d0-ad04-71bc5c7ca8d2" />
+Additionally, to undersand why the number of words that participants remembered was only worse when the context changed at the high rate, we looked at the order in which participants recalled the words. We observed that the way participants organized their memories differed when the context switched rapidly. 
+
 
 
 <h2 style="font-size:24px;">Key Takeaways & Implications</h2>
