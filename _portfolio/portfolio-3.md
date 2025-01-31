@@ -8,6 +8,7 @@ collection: portfolio
 <h1 style="font-size:32px;">CONTEXTUAL FAMILIARITY RESCUES THE COST OF SWITCHING</h1>
 
 
+_Publication of the findings can be found [here](http://lindsay-rait.github.io/files/pbr_2023.pdf)_
 
 Our environment is constantly changing, filled with switches in context (where/when something occurs) varying in how often switches occur as well as prior exposure to the contexts (i.e., relative novelty).  These types of changes profoundly infuence how much we remember. For instance, imagine a typical Sunday afternoon. You could spend the day watching a movie in the living room while preparing lunch in the kitchen. 
 If asked to recall what happened in the movie, your later memory of a specifc scene may become linked with memories of preparing lunch, helping you remember both events. Instead, you could run errands in a new shopping mall. You may have difficulty recalling all the items purchased since you were rapidly switching between each new store. 
@@ -30,4 +31,10 @@ I led the project in collaboration with [Dr. Vishnu Murty](https://www.adaptivem
 
 Literature review, experiment and survey design, A/B testing, remote data collection (Prolific), verbal data trasnscription, data analysis (R, Excel), scientific writing and communication 
 
-_Publication of the findings can be found [here](http://lindsay-rait.github.io/files/pbr_2023.pdf)_
+<h2 style="font-size:24px;">Key Takeaways and Insights</h2>
+
+We found and replicated that memory was only worse when switching quickly between novel contexts, not when switching between familiar contexts. In fact, when the context was familiar, memory was just as good when the context was changing rapidly vs. it was not changing at all. This suggests that when the context is changing quickly, familiarity with the context can help reduce the negative effects of fast switching. This suggests that the rate of context change matters more when the context is unfamiliar.
+
+Additionally, to undersand why the number of words that participants remembered was only worse when the context changed at the high rate, we looked at the order in which participants recalled the words. We observed that the way participants organized their memories differed when the context switched rapidly.
+
+Task Switching is unavoidable. Thus, an understanding of how to limit detriments to memory because of switching between tasks may have several broad implications. In particular, this research will help to understand the increasingly common case of media multitasking, the concurrent use of two streams of media or the use of media while engaging in a non-media activity. Media multitasking is especially prevalent in education, where students often send text messages while studying or use their laptop during a lecture. Implementing more effective task-switching strategies in the classroom can promote better learning and memory of the material.
