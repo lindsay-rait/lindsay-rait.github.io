@@ -27,7 +27,10 @@ Our environment is constantly changing, filled with switches in context (where/w
 
 I led the project in collaboration with [Dr. Vishnu Murty](https://www.adaptivememorylab.com/) and [Dr. Sarah DuBrow](https://www.dubrowlab.org/) (In Memorium) 
 
-<h2 style="font-size:24px;">Approach</h2>
+<h2 style="font-size:24px;">Methods</h2>
+
+Literature review, experiment and survey design, A/B testing, remote data collection (Prolific), verbal data trasnscription, data analysis (R, Excel), scientific writing and communication 
+
 
 <img width="807" alt="methods_arial_new_3" src="https://github.com/user-attachments/assets/18ec090c-aa35-4e05-b65b-ebb770ec70a3" />
 
@@ -47,7 +50,7 @@ _Experiment 2 (167 participants):_
 
 <img width="463" alt="Screen Shot 2025-01-19 at 9 42 45 PM" src="https://github.com/user-attachments/assets/00b3f0c1-aea1-49f8-ba15-7b783567ce73" />
 
-We found and replicated that memory was only worse when switching quickly between novel contexts, not when switching between familiar (repeated) contexts. In fact, when the context was familiar (repeated) memory was just as good during when the context was changing rapidly as when it was not changing at all. This suggests that when the context is changing quickly, familiarity with the context can help reduce the negative effects of fast switching. This suggests that the rate of context change matters more when the context is unfamiliar. 
+We found and replicated that memory was only worse when switching quickly between novel contexts, not when switching between familiar (repeated) contexts. In fact, when the context was familiar (repeated), memory was just as good when the context was changing rapidly as when it was not changing at all. This suggests that when the context is changing quickly, familiarity with the context can help reduce the negative effects of fast switching. This suggests that the rate of context change matters more when the context is unfamiliar. 
 
 Additionally, to undersand why the number of words that participants remembered was only worse when the context changed at the high rate, we looked at the order in which participants recalled the words. We observed that the way participants organized their memories differed when the context switched rapidly. 
 
@@ -55,7 +58,7 @@ Additionally, to undersand why the number of words that participants remembered 
 
 <h2 style="font-size:24px;">Key Takeaways & Insights</h2>
 
-In two experiments, we found that familiarity with a context can rescue the costs to memory that are associated with rapidly switching to new tasks and environments. Task Switching is unavoidable. Thus, an understanding of how to limit detriments to memory because of switching between tasks may have several broad implications. In particular, this research will help to understand the increasingly common case of media multitasking, the concurrent use of two streams of media or the use of media while engaging in a non-media activity. Media multitasking is especially prevalent in education, where students often send text messages while studying or use their laptop during a lecture. Implementing more effective task-switching strategies in the classroom can promote better learning and memory of the material. 
+**In two experiments, we found that familiarity with a context can rescue the costs to memory that are associated with rapidly switching to new tasks and environments.** Task Switching is unavoidable. Thus, an understanding of how to limit detriments to memory because of switching between tasks may have several broad implications. In particular, this research will help to understand the increasingly common case of media multitasking, the concurrent use of two streams of media or the use of media while engaging in a non-media activity. Media multitasking is especially prevalent in education, where students often send text messages while studying or use their laptop during a lecture. Implementing more effective task-switching strategies in the classroom can promote better learning and memory of the material. 
 
 
  
