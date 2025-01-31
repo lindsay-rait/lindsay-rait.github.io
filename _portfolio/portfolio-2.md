@@ -18,4 +18,13 @@ This project:
 
 * **Links Brain Activity to Memory Organization:** Examine whether changes in activity in the hippocampus during learning are correlated with how people group and recall memories based on the order they were learned.
 
+<h2 style="font-size:24px;">My Role</h2>
+
+I led the project in collaboration with [Dr. Brice Kuhl](https://kuhllab.com/), [Dr. Sarah DuBrow](https://www.dubrowlab.org/) (In Memorium), [Dr. Wanjia Guo](https://wanjiag.github.io/), and Dr. Zhifang Ye
+
+
+<h2 style="font-size:24px;">Methods</h2>
+
+Literature review, experiment and survey design, participant recruitment, neuroimaging (fMRI) data collection, verbal data trasnscription, data analysis (R, Excel, Python), scientific writing and communication 
+
 
