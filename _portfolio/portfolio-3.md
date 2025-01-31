@@ -21,7 +21,13 @@ This project explores:
 
 * **The Influence of Familiar vs. Novel Contexts on Memory:** Investigate whether people remember things better when they switch between familiar environments compared to when they switch to novel ones.
 
+<h2 style="font-size:24px;">My Role</h2>
+
+I led the project in collaboration with [Dr. Vishnu Murty](https://www.adaptivememorylab.com/) and [Dr. Sarah DuBrow](https://www.dubrowlab.org/) (In Memorium) 
 
 
+<h2 style="font-size:24px;">Methods</h2>
+
+Literature review, experiment and survey design, A/B testing, remote data collection (Prolific), verbal data trasnscription, data analysis (R, Excel), scientific writing and communication 
 
 _Publication of the findings can be found [here](http://lindsay-rait.github.io/files/pbr_2023.pdf)_
