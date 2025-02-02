@@ -16,8 +16,8 @@ main:
 #    url: /year-archive/
     
    - title: Projects
-    url: /projects/
-    children:
+     url: /projects/
+     children:
       - title: Context Change & Memory
         url: /portfolio/portfolio-1/
       - title: Hippocampus & Memory Organization
