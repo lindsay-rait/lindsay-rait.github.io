@@ -8,7 +8,9 @@
     <h1>{{ page.title }}</h1>
   </header>
   <main>
-    <img src="{{ page.image }}" alt="{{ page.title }}">
+    {% if project.image %}
+      <img src="{{ project.image }}" alt="{{ project.title }}">
+    {% endif %}
     {{ content }}
   </main>
 </body>
