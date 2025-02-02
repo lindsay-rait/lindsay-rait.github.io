@@ -6,11 +6,12 @@ title: Projects
 <h1>Projects</h1>
 <ul>
   {% for project in site.portfolio %}
-    <li>
-      <a href="{{ portfolio.url }}">
-        <img src="{{ portfolio.image }}" alt="{{ portfolio.title }}">
-        <h2>{{ portfolio.title }}</h2>
-      </a>
-    </li>
-  {% endfor %}
-</ul>
+  <div class="project-preview">
+    <a href="{{ project.url }}">
+      <img src="{{ project.image }}" alt="{{ project.title }}">
+      <h2>{{ project.title }}</h2>
+      <p>{{ project.short_description }}</p>
+    </a>
+  </div>
+{% endfor %}
+
