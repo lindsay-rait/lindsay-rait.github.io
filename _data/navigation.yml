@@ -15,8 +15,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
- # - title: "Projects"
- #   submenu:
+  - title: "Projects"
+    submenu:
     - title: Context Change & Memory
       url: /portfolio/portfolio-1/
     - title: Hippocampus & Memory Organization
