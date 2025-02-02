@@ -6,8 +6,6 @@ short_description: Changes in context influence the way we form and structure me
 layout: portfolio
 ---
 
-<h1 style="font-size:32px;">CONTEXTUAL FAMILIARITY RESCUES THE COST OF SWITCHING</h1>
-
 
 _Publication of the findings can be found [here](http://lindsay-rait.github.io/files/pbr_2023.pdf)_
 
