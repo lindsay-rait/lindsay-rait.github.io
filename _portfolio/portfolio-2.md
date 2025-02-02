@@ -27,4 +27,6 @@ I led the project in collaboration with [Dr. Brice Kuhl](https://kuhllab.com/), 
 
 Literature review, experiment and survey design, participant recruitment, neuroimaging (fMRI) data collection, verbal data trasnscription, data analysis (R, Excel, Python), scientific writing and communication 
 
+<h2 style="font-size:24px;">Key Takeaways and Insights</h2>
 
+While context switch rate had no effect on the total number of words recalled, it significantly influenced the degree of temporal clustering, or how likely individuals were to recall the words in temporal order. Specifically, a higher context switch rate was associated with less temporal clustering. Strikingly, this pattern of data was mirrored by activity in the hippocampus. Most importantly, hippocampal activity during learning was positively correlated with temporal clustering during free recall. **Collectively, these findings establish a critical link between context representations in the hippocampus and temporal clustering in free recall.**
