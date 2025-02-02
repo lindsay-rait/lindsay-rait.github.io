@@ -15,7 +15,7 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-   - title: Projects
+   - title: "Projects"
      url: /projects/
      children:
       - title: Context Change & Memory
