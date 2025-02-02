@@ -2,7 +2,7 @@
 title: "Contextual familiarity rescues the cost of switching"
 #excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 #image: "/images/project1.jpg"
-short_description: Changes in context influence the way we form and structure memories. Yet, little is known about how qualitatively different types of context switches shape memory organization. These studies demonstrate that how often the context changes and the level of familiarity with the context influences the structure and organization of memory.
+#short_description: Changes in context influence the way we form and structure memories. Yet, little is known about how qualitatively different types of context switches shape memory organization. These studies demonstrate that how often the context changes and the level of familiarity with the context influences the structure and organization of memory.
 layout: archive
 ---
 
