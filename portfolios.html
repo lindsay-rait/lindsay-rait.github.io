@@ -1,0 +1,16 @@
+---
+layout: default
+title: Projects
+---
+
+<h1>Projects</h1>
+<ul>
+  {% for project in site.portfolio %}
+    <li>
+      <a href="{{ portfolio.url }}">
+        <img src="{{ portfolio.image }}" alt="{{ portfolio.title }}">
+        <h2>{{ portfolio.title }}</h2>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
