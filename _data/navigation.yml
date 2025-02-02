@@ -15,12 +15,13 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "Projects"
+   - title: Projects
+    url: /projects/
     children:
-    - title: Context Change & Memory
-      url: /portfolio/portfolio-1/
-    - title: Hippocampus & Memory Organization
-      url: /portfolio/portfolio-2/
+      - title: Context Change & Memory
+        url: /portfolio/portfolio-1/
+      - title: Hippocampus & Memory Organization
+        url: /portfolio/portfolio-2/
     
 #  - title: "Guide"
 #    url: /markdown/
