@@ -16,7 +16,11 @@ main:
 #    url: /year-archive/
     
  # - title: "Projects"
- #   url: /portfolios/
+ #   submenu:
+    - title: Context Change & Memory
+      url: /portfolio/portfolio-1/
+    - title: Hippocampus & Memory Organization
+      url: /portfolio/portfolio-2/
     
 #  - title: "Guide"
 #    url: /markdown/
