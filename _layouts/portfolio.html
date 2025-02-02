@@ -20,10 +20,11 @@ layout: default
       <h1 class="page__title">{{ page.title }}</h1>
 
       {% if page.url == "/portfolio/" %}
-        <p>{{ page.description }}</p>  <!-- Show description only on the first page (portfolio) -->
+        <!-- Short description for the main portfolio page only -->
+        <p>{{ page.short_description }}</p>
       {% endif %}
-      
     {% endunless %}
+
     {{ content }}
   </div>
 </div>
