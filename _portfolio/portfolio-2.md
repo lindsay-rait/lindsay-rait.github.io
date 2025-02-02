@@ -1,7 +1,8 @@
 ---
-title: "Rapid context changes at encoding disrupt hippocampal autocorrelation and reduct temporal clustering of free recall"
+title: "Rapid context changes at encoding disrupt hippocampal autocorrelation and reduce temporal clustering of free recall"
 #excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 #image: "/images/project1.jpg"
+short_description: The hippocampus plays a critical role in processing contextual information. Additionally, context powerfully shapes how our memories are organized. In this study, we establish a link between context representations in the hippocampus and memory organization.   
 collection: portfolio
 ---
 
