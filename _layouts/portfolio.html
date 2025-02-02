@@ -1,5 +1,5 @@
 ---
-layout: portfolio
+layout: default
 ---
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
@@ -19,9 +19,10 @@ layout: portfolio
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
 
-      {% if page.title == "Portfolio" %}
-        <p>{{ page.description }}</p> <!-- This will show the description for the portfolio page only -->
+      {% if page.url == "/portfolio/" %}
+        <p>{{ page.description }}</p>  <!-- Show description only on the first page (portfolio) -->
       {% endif %}
+      
     {% endunless %}
     {{ content }}
   </div>
