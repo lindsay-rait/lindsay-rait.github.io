@@ -16,7 +16,6 @@ main:
 #    url: /year-archive/
 
   - title: "Projects"
-    url: /portfolio/
     children:
       - title: Context Change & Memory
         url: /portfolio/portfolio-1/
