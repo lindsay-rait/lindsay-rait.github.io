@@ -7,7 +7,7 @@ layout: archive
 
 My previous research examined how changes in external context—such as the environment or surroundings—affect how people organize their memories during recall. However, less is known about how shifts in internal context—such as a person’s thoughts or goals—shape memory organization.
 Research shows that individuals tend to prioritize goal-relevant information in memory. In fact, one study found that people tend to organize their memories based on the monetary reward value of the item, remembering items with similar rewards together.
-However, **it is less clear how more more naturalistic, goal-relevant memories are organized**.
+However, it is less clear how more more naturalistic, goal-relevant memories are organized.
 
 This project explores: 
 
