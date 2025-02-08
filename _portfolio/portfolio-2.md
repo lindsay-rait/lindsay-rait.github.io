@@ -7,7 +7,7 @@ layout: archive
 ---
 
 
-The hippocampus is a region in the brain that is critical for forming long term memories. Specifically, the hippocampus is essential for linking memories of past experiences to rich contextual details—memory for ‘where’ or ‘when’ an event took place. For example, recalling your wedding day may bring to mind the beautiful floral-covered canopy under which you were married. Prior research has shown that context also powerfully shapes the order in which items are remembered- or how memories are organized. This has been demonstrated in previous research, where participants tend to recall items in the order they were learned. This phenomenon is known as _temporal clustering_. At present, however, there is limited evidence linking context representations in the hippocampus and temporal clustering in free recall.
+The hippocampus is a region in the brain that is critical for forming long term memories. Specifically, the hippocampus is essential for linking memories of past experiences to rich contextual details—memory for ‘where’ or ‘when’ an event took place. For example, recalling your wedding day may bring to mind the beautiful floral-covered canopy under which you were married. Prior research has shown that context also powerfully shapes the order in which items are remembered- or how memories are organized. This has been demonstrated in previous research, where participants tend to recall items in the order they were learned. This phenomenon is known as _temporal clustering_. At present, however, **there is limited evidence linking context representations in the hippocampus and temporal clustering in free recall**.
 
 This project:
 
