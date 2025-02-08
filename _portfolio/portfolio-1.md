@@ -8,7 +8,7 @@ layout: archive
 
 Our environment is constantly changing, filled with switches in context (where/when something occurs) varying in how often switches occur as well as prior exposure to the contexts (i.e., relative novelty).  These types of changes profoundly infuence how much we remember. For instance, imagine a typical Sunday afternoon. You could spend the day watching a movie in the living room while preparing lunch in the kitchen. 
 If asked to recall what happened in the movie, your later memory of a specifc scene may become linked with memories of preparing lunch, helping you remember both events. Instead, you could run errands in a new shopping mall. You may have difficulty recalling all the items purchased since you were rapidly switching between each new store. 
-While previous research has shown that context affects memory performance, **it is still unclear how different aspects of context —such how familiar they are or as how quickly they change—affect how we organize and structure our memories.**
+While previous research has shown that context affects memory performance, it is still unclear how different aspects of context —such how familiar they are or as how quickly they change—affect how we organize and structure our memories.
 
 This project explores: 
 
