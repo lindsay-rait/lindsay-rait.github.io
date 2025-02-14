@@ -22,4 +22,4 @@ I am a PhD candidate in Cognitive Neuroscience at the Universtiy of Oregon. My e
 
 With over 9 years of experience in designing and conducting experimental psychology and neuroimaging studies, I have honed my skills in analyzing complex, mixed-method datasets and effectively communicating scientific findings. I am passionate about applying my expertise to solve data-driven problems that have real-world impact and am eager to take on new challenges that require critical and creative thinking.
 
-Download my [resume](http://lindsay-rait.github.io/files/Rait_UXResearcher_Resume.pdf) or [CV](http://lindsay-rait.github.io/files/Rait_CV_1525.pdf) for more information.
+Download my [resume](http://lindsay-rait.github.io/files/Rait_Resume_new.pdf) or [CV](http://lindsay-rait.github.io/files/Rait_CV_1525.pdf) for more information.
