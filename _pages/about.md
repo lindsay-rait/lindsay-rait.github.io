@@ -22,6 +22,6 @@ redirect_from:
 
 I am a cognitive scientist with 8+ years of experience designing and leading experimental research to better understand human behavior. I specialize in analyzing complex data and communicating scientific insights in ways that people—from researchers to the general public—can understand. I am passionate about using these skills to tackle real-world challenges, particularly in healthcare, and I am excited to bring this experience into research roles that require both critical thinking and creativity.
 
-As a Ph.D. candidate in Psychology at the University of Oregon (degree expected May 2025), I used behavioral experiments, neuroimaging (fMRI), and computational methods to explore how our environment shapes what we learn and remember. I am especially interested in applying insights from this work in new contexts where understanding human behavior can drive meaningful change.
+During my Ph.D. in Psychology at the University of Oregon, I used behavioral experiments, neuroimaging (fMRI), and computational methods to explore how our environment shapes what we learn and remember. I am especially interested in applying insights from this work in new contexts where understanding human behavior can drive meaningful change.
 
 View my [resume](http://lindsay-rait.github.io/files/Rait_ResearchScientist_Resume.pdf) for more information.
