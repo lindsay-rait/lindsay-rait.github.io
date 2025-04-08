@@ -39,3 +39,37 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+/* Custom Button Styles */
+.btn {
+  display: inline-block;
+  background-color: #007bff;
+  color: #fff;
+  text-align: center;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+.btn.github {
+  background-color: #333;
+}
+
+.btn.github:hover {
+  background-color: #111;
+}
+
+.btn.publication {
+  background-color: #28a745;
+}
+
+.btn.publication:hover {
+  background-color: #1e7e34;
+}
