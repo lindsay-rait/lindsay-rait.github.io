@@ -10,8 +10,7 @@ layout: archive
 
 
 ---
-
-### 🔍 Project Goal  
+<h2 style="font-size:24px;">🔍 Project Goal</h2> 
 How does our ability to remember information change when we switch between different environments?
 
 This project investigated how two factors influence memory:  
@@ -19,8 +18,7 @@ This project investigated how two factors influence memory:
 - **How familiar the environments are** (familiar vs. novel environments)
 
 ---
-
-### 🧪 My Role & Methods  
+<h2 style="font-size:24px;">🧪 My Role & Methods </h2> 
 I designed and led this project from start to finish, including:
 
 - Conducted literature reviews and developed experiment hypotheses
@@ -32,17 +30,19 @@ I designed and led this project from start to finish, including:
 - Wrote and communicated research findings for both academic and applied audiences
 
 ---
+<h2 style="font-size:24px;">🧠 Key Insights </h2> 
 
 
-### 🧠 Key Insights  
-- **Memory is worse when environments change quickly—but only when the new environments are unfamiliar.**  
-- **When the same environments repeat (i.e., are familiar), rapid switching no longer hurts memory.**  
-- **Rapid environment changes lead to differences in the order in which items are remembered**
+- Memory is worse when environments change quickly—but **only when the new environments are unfamiliar**  
+- When the same environments **repeat (i.e., are familiar), rapid switching no longer hurts memory**  
+- Rapid environment changes lead to **differences in the order** in which items are remembered
 
 ➡️ This suggests that **familiarity with an environment can help protect memory from the negative effects of switching rapidly**
 
 ---
-### 💡 Why It Matters  
+<h2 style="font-size:24px;">💡 Why It Matters  </h2> 
+
+ 
 Task-switching is a common part of everyday life—from switching between browser tabs to managing work, communication, and personal tasks. Our findings have important implications for how we approach multitasking and memory.
 
 This has potential applications in:
