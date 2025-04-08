@@ -35,39 +35,43 @@
   background-color: #ddd;
 }
 
-.buttons {
-  display: flex;
-  gap: 10px; /* Adds space between the buttons */
-  margin-top: 20px; /* Adds some space above the buttons */
-}
-
+/* Base button style */
 .btn {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #A858B0; /* Your desired button color */
-  color: white;
-  text-decoration: none;
-  border-radius: 5px;
+  font-size: 16px;
   font-weight: bold;
   text-align: center;
-  transition: background-color 0.3s ease; /* Adds a hover effect */
+  text-decoration: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
 }
 
-.btn:hover {
-  background-color: #D8B3E0; /* Slightly lighter color when hovered */
-}
-
+/* GitHub button */
 .btn-github {
-  background-color: #333; /* GitHub-specific button color */
-}
-
-.btn-publication {
-  background-color: #4CAF50; /* Publication-specific color (green) */
+  background-color: #24292f; /* GitHub color */
+  color: #fff;
+  border: 2px solid #24292f;
 }
 
 .btn-github:hover {
-  background-color: #555; /* Darker shade when hovered */
+  background-color: #fff;
+  color: #24292f;
 }
+
+/* Publication button */
+.btn-publication {
+  background-color: #4CAF50; /* Green color */
+  color: #fff;
+  border: 2px solid #4CAF50;
+}
+
+.btn-publication:hover {
+  background-color: #fff;
+  color: #4CAF50;
+}
+
 
 .btn-publication:hover {
   background-color: #66BB6A; /* Lighter green when hovered */
