@@ -1,31 +1,45 @@
 ---
-title: "Investigating the effects of goal-relevance on free recall organization"
+title: "Agency Alters Memory Organization During Free Recall"
 #excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 #image: "/images/project1.jpg"
 layout: archive
 ---
 
-My previous research examined how changes in external context—such as the environment or surroundings—affect how people organize their memories during recall. However, less is known about how shifts in internal context—such as a person’s thoughts or goals—shape memory organization.
-Research shows that individuals tend to prioritize goal-relevant information in memory. In fact, one study found that people tend to organize their memories based on the monetary reward value of the item, remembering items with similar rewards together.
-However, it is less clear how agency influences how memories are organized.
 
-This project explores: 
+Designed and led an online experiment to explore how having agency over decision-making influences the order in which people recall information from memory
 
-* **How Agency in Decision-Making Shapes Memory Organization:** Investiagte how imbuing individuals with agency influences the order in which items are remembered.
+<strong>Role</strong>: Lead Researcher | In collaboration with [Dr. Vishnu Murty](https://www.adaptivememorylab.com/), [Dr. Sarah DuBrow](https://www.dubrowlab.org/) (In Memorium), and Dr. Elizabeth Horwath
 
-* **Is Memory Organized More by Time or Choices:** Examine whether whether people remember items more based on what choices they made or the order in which they originally learned them. 
+---
+<h2 style="font-size:24px;">🔍 Project Goal</h2> 
 
-<h2 style="font-size:24px;">My Role</h2>
+How does agency influence how memories are organized?
 
-I led the project in collaboration with Dr. Elizabeth Horwath, [Dr. Vishnu Murty](https://www.adaptivememorylab.com/) and [Dr. Sarah DuBrow](https://www.dubrowlab.org/) (In Memorium) 
+Specifically, this project explores: 
+* **How Agency during decision-making shapes memory organization:** Investiagted how imbuing individuals with agency influences the order in which items are remembered
 
+* **Whether memory is organized more by time or choices:** Examined whether whether people remember items more based on what choices they made or the order in which they originally learned them
 
-<h2 style="font-size:24px;">Methods</h2>
+---
+<h2 style="font-size:24px;">🧪 My Role & Methods </h2> 
+I designed and led this project from start to finish, including:
 
-Literature review, experiment and survey design, remote data collection (Prolific), verbal data trasnscription, data analysis (R, Excel), scientific writing and communication 
+- Conducted literature reviews and developed experiment hypotheses
+- Designed a novel experimental paradigm
+- Collected data for one online experiment (132 total participants)
+- Trained junior researchers to transcribe data 
+- Analyzed behavioral data using R and Excel
+- Created data visualizations in R and Adobe Illustrator 
+- Wrote and communicated research findings for both academic and applied audiences
 
-<h2 style="font-size:24px;">Key Takeaways and Insights</h2>
+---
+<h2 style="font-size:24px;">🧠 Key Insights </h2> 
 
-The present study shows the structure of memory recall was shaped by how items were assigned at encoding. Participants who had no agency over their choices relied more on temporal information to organize recall, where they were more likely to retrieve items in the order they were studied. In contrast, those who actively made choices were less dependent on temporal structure and instead organized their recall around the character to whom they had assigned the items. This suggests that making choices during encoding creates a meaningful context that later guides memory organization.
+- **When people had no control over their choices**, they tended to remember items in the order they were learned, relying more on the sequence of events
+- **When people had control over their choices**, they organized their memories based on the choices they made, showing less reliance on temporal order and more on the meaningful associations they created during learning
+
+➡️ This suggests having **agency during decision-making provides a meaningful framework** that influences how memories are organized and recalled
+
+---
 
 
