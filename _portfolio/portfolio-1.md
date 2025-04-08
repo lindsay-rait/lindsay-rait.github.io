@@ -50,4 +50,12 @@ This has potential applications in:
 - **Workplace productivity** (e.g., improving focus and memory during task-switching)
 - **Media multitasking habits** (e.g., managing how people engage with multiple sources of information)
 
-_Publication of the findings can be found [here](http://lindsay-rait.github.io/files/pbr_2023.pdf)_
+
+<div class="buttons">
+  <!-- GitHub Button -->
+  <a href="https://github.com/lindsay-rait/paper-context-switchfreq" class="btn btn-github" target="_blank">Code for this project</a>
+  
+  
+  <!-- Publication Button -->
+  <a href="http://lindsay-rait.github.io/files/pbr_2023.pdf" class="btn btn-publication" target="_blank">Publication of the findings</a>
+</div>
