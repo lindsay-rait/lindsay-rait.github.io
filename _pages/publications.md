@@ -37,6 +37,7 @@ Publications
 
 Selected Presentations
 ======
+* **Rait, L.I.,** Wanjia, G., Ye, Z., DuBrow, S., Kuhl, B.A., (April, 2025). Rapid context changes at encoding disrupt hippocampal autocorrelation and reduce temporal clustering of free recall. Poster at Cognitive Neuroscience Society Meeting, Boston, Massachusetts. 
 * **Rait, L.I.,** Wanjia, G., Ye, Z., DuBrow, S., Kuhl, B.A., (April, 2024). Rate of context change at encoding influences hippocampal autocorrelation and temporal clustering of free recall. Data Blitz presented at Cognitive Neuroscience Society Meeting, Toronto, Ontario, Canada. 
 * **Rait, L.I.,** Murty, V.P., DuBrow, S., (July, 2022). Contextual familiarity rescues the cost of switching. Talk at Sarah DuBrow Memorial Symposium, Eugene, OR.
 * **Rait, L.I.,** Wanjia, G., Ye, Z., DuBrow, S., Kuhl, B.A., (April, 2024). Rate of context change at encoding influences hippocampal autocorrelation and temporal clustering of free recall. Poster at Cognitive Neuroscience Society Meeting, Toronto, Ontario, Canada. 
