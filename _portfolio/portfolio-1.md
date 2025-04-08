@@ -50,6 +50,7 @@ This has potential applications in:
 - **Workplace productivity** (e.g., improving focus and memory during task-switching)
 - **Media multitasking habits** (e.g., managing how people engage with multiple sources of information)
 
+---
 
 <div class="buttons">
   <!-- GitHub Button -->
