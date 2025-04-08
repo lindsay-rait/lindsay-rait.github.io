@@ -24,4 +24,7 @@ I am a cognitive scientist with 8+ years of experience designing and leading exp
 
 During my Ph.D. in Psychology at the University of Oregon, I used behavioral experiments, neuroimaging (fMRI), and computational methods to explore how our environment shapes what we learn and remember. I am especially interested in applying insights from this work in new contexts where understanding human behavior can drive meaningful change.
 
-View my [resume](http://lindsay-rait.github.io/files/Rait_ResearchScientist_Resume.pdf) for more information.
+<div class="buttons">
+  <!-- Resume Button -->
+  <a href="http://lindsay-rait.github.io/files/Rait_ResearchScientist_Resume.pdf" class="btn btn-publication" target="_blank">View my resume for more information</a>
+</div>
