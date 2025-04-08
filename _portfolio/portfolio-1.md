@@ -6,7 +6,10 @@ title: "How Quickly Changing Environments Affects Memory—And Why Familiarity H
 layout: archive
 ---
 
-**Role**: Lead Researcher | In collaboration with [Dr. Vishnu Murty](https://www.adaptivememorylab.com/) and [Dr. Sarah DuBrow](https://www.dubrowlab.org/) (In Memorium) 
+
+Designed and led two online experiments exploring how switching between environments influences memory, focusing on how environment familiarity and switching speed affects memory performance
+
+<strong>Role</strong>: Lead Researcher | In collaboration with [Dr. Vishnu Murty](https://www.adaptivememorylab.com/) and [Dr. Sarah DuBrow](https://www.dubrowlab.org/) (In Memorium)
 
 
 ---
