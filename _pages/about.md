@@ -26,5 +26,5 @@ During my Ph.D. in Psychology at the University of Oregon, I used behavioral exp
 
 <div class="buttons">
   <!-- Resume Button -->
-  <a href="http://lindsay-rait.github.io/files/Rait_ResearchScientist_Resume.pdf" class="btn btn-publication" target="_blank">View my resume for more information</a>
+  <a href="http://lindsay-rait.github.io/files/Rait_ResearchScientist_Resume2.pdf" class="btn btn-publication" target="_blank">View my resume for more information</a>
 </div>
