@@ -31,8 +31,8 @@ You can find my full list of publications on my [`Google Scholar profile`](https
 
 Publications
 =======
-* * **Rait, L.I.,** Horwath, E.A., Murty, V.P., & DuBrow, S. (2026). Agency alters memory organization during free recall, 1-5. [PDF](http://lindsay-rait.github.io/files/Rait_Hutchinson.pdf)
-* **Rait, L.I.,** Guo, W., Ye, Z., DuBrow, S., Kuhl, B.A. (2025). Hippocampal drift rate reflects the temporal organization of memories. Journal of Neuroscience, 1-13. [PDF](http://lindsay-rait.github.io/files/Rait_Hutchinson.pdf)
+* **Rait, L.I.,** Horwath, E.A., Murty, V.P., & DuBrow, S. (2026). Agency alters memory organization during free recall, 1-5. [PDF](http://lindsay-rait.github.io/files/Agency alters memory organization during free recall.pdf)
+* **Rait, L.I.,** Guo, W., Ye, Z., DuBrow, S., Kuhl, B.A. (2025). Hippocampal drift rate reflects the temporal organization of memories. Journal of Neuroscience, 1-13. [PDF](http://lindsay-rait.github.io/files/Hippocampal drift rate reflects the temporal organization of memories.pdf)
 * **Rait, L.I.** & Hutchinson, J.B. (2024). Recall as a window into hippocampally defined events. Journal of Cognitive Neuroscience, 1-14. [PDF](http://lindsay-rait.github.io/files/Rait_Hutchinson.pdf)
 * **Rait, L.I.,** Murty, V.P., & DuBrow, S. (2023). Contextual familiarity rescues the cost of switching. Psychonomic Bulletin & Review, 1-11. [PDF](http://lindsay-rait.github.io/files/pbr_2023.pdf)
 * Kok, P., **Rait, L.I.,** & Turk-Browne, N.B. (2019). Content-based dissociation of hippocampal involvement in prediction. Journal of Cognitive Neuroscience, 1-19. [PDF](http://lindsay-rait.github.io/files/jocn_a_01509.pdf)
